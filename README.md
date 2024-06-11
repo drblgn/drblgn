@@ -6,7 +6,7 @@
 - 🌱 Currently learning rust.
 - 📫 How to reach me: drblgn (discord)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/drblgn)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="drblgn" data-color="#5F7FFF" data-emoji="📈" data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 <!--
 **drblgn/drblgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
