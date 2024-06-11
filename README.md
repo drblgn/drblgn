@@ -8,6 +8,9 @@
 
   
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/drblgn)
+
+or you could donate me crypto on my eth wallet:
+> 0x3c233a9ad0e7a9bd1b6fd3d46cee78f5e8923b31
 <!--
 **drblgn/drblgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
