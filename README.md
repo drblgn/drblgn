@@ -7,7 +7,8 @@
 - 📫 How to reach me: drblgn (discord)
 
   
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JaKooLit)
+[!["Buy Me A Coffee"](![image](https://github.com/drblgn/drblgn/assets/32202257/c62f06a9-d9ef-43ef-9b3d-0568de31add6)
+)](https://www.buymeacoffee.com/JaKooLit)
 <!--
 **drblgn/drblgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
