@@ -1,12 +1,12 @@
 
-![ViewCounter](https://komarev.com/ghpvc/?username=drblgn&color=blueviolet)
 
 ## Hi there 👋
 -🔭 Just a curios dev working on a ton of unrelated projects.
 - 🌱 Currently learning rust.
 - 📫 How to reach me: drblgn (discord)
 
-  
+![ViewCounter](https://komarev.com/ghpvc/?username=drblgn&color=blueviolet)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/drblgn)
 <!--
 **drblgn/drblgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
